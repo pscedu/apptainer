@@ -6,6 +6,7 @@ This repository lists the Apptainer definition files and other files needed to d
 ## STEM
 | Name | Information |
 | --- | --- |
+| [asciigenome](http://github.com/pscedu/apptainer-asciigenome) | ![Issue](https://img.shields.io/github/issues/pscedu/apptainer-asciigenome)![forks](https://img.shields.io/github/forks/pscedu/apptainer-asciigenome)![Stars](https://img.shields.io/github/stars/pscedu/apptainer-asciigenome)![License](https://img.shields.io/github/license/pscedu/apptainer-asciigenome) |
 | [octave](http://github.com/pscedu/apptainer-octave) | ![Issue](https://img.shields.io/github/issues/pscedu/apptainer-octave)![forks](https://img.shields.io/github/forks/pscedu/apptainer-octave)![Stars](https://img.shields.io/github/stars/pscedu/apptainer-octave)![License](https://img.shields.io/github/license/pscedu/apptainer-octave) |
 
 ## Utilities
