@@ -2,7 +2,7 @@
 file = open("README.md", "w")
 
 # STEM
-repositories = ['octave']
+repositories = ['octave','asciigenome']
 repositories.sort()
 file.write('# List of Apptainer definition files and more\n')
 file.write('[![Build it!](https://github.com/pscedu/apptainer/actions/workflows/build.yml/badge.svg)](https://github.com/pscedu/apptainer/actions/workflows/build.yml)\n')
